@@ -22,10 +22,10 @@ npm start
 
 ## Atalhos
 
-|               |                 |                  |                  |
 | :-----------: | :-------------: | :--------------: | :--------------: |
 | Functionality |      MacOs      |     Windows      |      Linux       |
 |   **DevTools**   |     Cmd + J     |     Ctrl + J     |     Ctrl + J     |
+|   **Minimize**   |     Cmd + M     |     Ctrl + M    |     Ctrl + M    |
 
 ---
 
